@@ -1,2 +1,4 @@
 # vue-just
-vue plugin to use just 
+simple vue plugin to implement Just library
+
+WIP
